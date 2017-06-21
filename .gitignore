@@ -1,0 +1,6 @@
+.*
+!.gitignore
+*.patch
+*.pro*
+*.*~
+ipmiparm
